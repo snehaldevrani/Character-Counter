@@ -1,0 +1,25 @@
+
+.navbar-brand img {
+    border-radius: 50%;
+  }
+
+
+.navbar div{
+    background-color: #add8e6;
+  }
+.text-center p{
+  color: rgb(9, 97, 123);
+  font-size: x-large;
+}
+
+body {
+  background-image: url('images.jpeg');
+  background-size: cover; 
+  background-repeat: no-repeat; 
+}
+
+.text-center .btn {
+  color: white;
+  background-color: rgb(205, 232, 247);
+  border-color: black;
+}
